@@ -1,0 +1,11 @@
+É necessario importar primeiro para pdoer utilizar o JFrame
+	import javax.swing.JFrame;
+alguns metodos do JFrame a seguir: setTitle(String), 
+setDefaultCloseOperation(JFrame.<OPERATION>),
+setResizable(Boolean),
+setSize(int, int),
+setVisible(Boolean),
+setIconImage(Image.getImage()),
+getContentPane().setBackground(Color);
+
+Todos os métodos citados acima são os básicos.
